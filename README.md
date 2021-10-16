@@ -5,7 +5,7 @@ The goal of the project is to scrape the multiple web sources with information a
 For this project, a flask server was created to scrape a series of URLs described below, the information was stored in a MongoDBdatabase and the information was displayed into a website. 
 A screenshot of the final result is presented below too.
 
-![mission_to_mars](mission_to_mars/images/websc1.jpg)
+![mission_to_mars](web-scraping-challenge/Mission_to_Mars/images/websc1.jpg)
 ![mission_to_mars](images/websc2.jpg)
 
 Scraped Urls
