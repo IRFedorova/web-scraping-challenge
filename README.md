@@ -21,15 +21,17 @@ Necessary Steps to Run all the Project
 5. Open your browser and visit the URL: http://127.0.0.1:5000/
 
 File Description
-- Missions_to_Mars\
+
+Missions_to_Mars\
 - app.py
 Contains Python app that uses the flask library that runs the server in the URL: http://127.0.0.1:5000/ and calls the Missions_to_Mars\templates\index.html file
 - mission_to_mars.ipynb
 Contains the Jupyter Notebook with the explained code for scrapping the different URLs used in the project
 - scrape_mars
 Contains Python routine used and called by the main routine \Missions_to_Mars\app.py and it is called by pressing the Scrape New Databutton in the URL: http://127.0.0.1:5000/
-- ScreenShots
-1. Initial.png - It is the screenshot of the initial state of the Missions_to_Mars\templates\index.html file before running the Scrape New Data button which calls the \Missions_to_Mars\scrape_mars.py routine
-2. Final.png - It is the screenshot of the final state of the Missions_to_Mars\templates\index.html file after running the Scrape New Databutton which calls the \Missions_to_Mars\scrape_mars.py routine
-- templates
+
+ScreenShots
+Websc1.jpg, Websc2.jpg - There are the screenshot of the final state of the Missions_to_Mars\templates\index.html file after running the Scrape New Data button which calls the \Missions_to_Mars\scrape_mars.py routine
+
+Templates
 index.html - Contains the HTML and CSS codes necessary for the presentation of the scrapped data obtained by Scrape New Databutton which calls the \Missions_to_Mars\scrape_mars.py routine
